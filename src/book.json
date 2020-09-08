@@ -8,7 +8,7 @@
 		"navigator",
 		"collapsible-chapters",
 		"hints",
-		"gitbook-plugin-search-pro-fixed"
+		"search-pro-fixed"
 	],
 	"language": "ja",
 	"pluginsConfig": {
