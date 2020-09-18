@@ -1,0 +1,27 @@
+{
+	"title": "Document",
+	"plugins": [
+		"-sharing",
+		"hide-published-with",
+		"mathjax",
+		"@ansanloms/uml",
+		"swagger",
+		"anchors",
+		"navigator",
+		"collapsible-chapters",
+		"hints",
+		"search-pro-fixed"
+	],
+	"language": "ja",
+	"pluginsConfig": {
+		"uml": {
+			"format": "svg",
+			"charset": "utf8",
+			"config": "classic"
+		},
+		"mathjax": {
+			"forceSVG": true
+		}
+	}
+}
+

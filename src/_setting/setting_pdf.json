@@ -1,9 +1,11 @@
 {
+	"title": "Document",
 	"plugins": [
 		"-sharing",
 		"hide-published-with",
 		"mathjax",
 		"@ansanloms/uml",
+		"swagger",
 		"anchors",
 		"navigator",
 		"collapsible-chapters",
@@ -13,12 +15,12 @@
 	"language": "ja",
 	"pluginsConfig": {
 		"uml": {
-			"format": "svg",
+			"format": "png",
 			"charset": "utf8",
 			"config": "classic"
 		},
 		"mathjax": {
-			"forceSVG": true
+			"forceSVG": false
 		}
 	}
 }
